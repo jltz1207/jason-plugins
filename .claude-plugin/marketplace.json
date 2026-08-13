@@ -1,0 +1,11 @@
+{
+  "name": "jason-plugins",
+  "owner": { "name": "Jason" },
+  "plugins": [
+    {
+      "name": "study-notes",
+      "source": "./",
+      "description": "Plan-then-build structured markdown notes for a learning topic"
+    }
+  ]
+}

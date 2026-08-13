@@ -1,0 +1,9 @@
+{
+  "name": "study-notes",
+  "version": "0.1.0",
+  "displayName": "Study Notes Builder",
+  "description": "Plan-then-build structured markdown notes for a learning topic",
+  "author": { "name": "Jason" },
+  "license": "MIT",
+  "keywords": ["notes", "learning", "obsidian", "knowledge-base"]
+}
