@@ -4,7 +4,7 @@
   "plugins": [
     {
       "name": "study-notes",
-      "source": "./",
+      "source": "./plugins/study-notes",
       "description": "Plan-then-build structured markdown notes for a learning topic"
     }
   ]
