@@ -32,6 +32,16 @@ frontmatter fields beyond the required minimum, etc. If it doesn't exist,
 
 ## Usage
 
+```
+# 每個新主題
+/study-notes:study-plan 幫我規劃學習 Rust 的 ownership 系統，目標是能在 production code review 時看得懂
+
+# review PLAN.md 後
+/study-notes:study-build
+
+# 查問進度
+/study-notes:study-status study 進度如何
+```
 ### 1. `study-plan` — build a plan
 
 > "幫我規劃學習 Rust 的 ownership 系統，目標是能在 production code review 時看得懂"
