@@ -1,6 +1,6 @@
 {
   "name": "study-notes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Study Notes Builder",
   "description": "Plan-then-build structured markdown notes for a learning topic",
   "author": { "name": "Jason" },
