@@ -1,0 +1,9 @@
+{
+  "name": "wsl-sync",
+  "version": "0.1.0",
+  "displayName": "WSL Session Sync",
+  "description": "Two-way sync of Claude Code sessions between WSL2 and Windows so /resume sees both",
+  "author": { "name": "Jason" },
+  "license": "MIT",
+  "keywords": ["wsl", "windows", "sessions", "resume", "sync"]
+}

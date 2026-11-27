@@ -1,0 +1,9 @@
+{
+  "name": "work-writing",
+  "version": "0.1.0",
+  "displayName": "Work Writing",
+  "description": "Root-cause report emails and Traditional Chinese release notes for Jason's systems",
+  "author": { "name": "Jason" },
+  "license": "MIT",
+  "keywords": ["email", "release-notes", "writing"]
+}
